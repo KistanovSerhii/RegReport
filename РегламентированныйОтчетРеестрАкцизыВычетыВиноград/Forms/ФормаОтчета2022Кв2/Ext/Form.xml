@@ -189,6 +189,16 @@
 						<ToolTipRepresentation>None</ToolTipRepresentation>
 						<ExtendedTooltip name="СравнитьExtendedTooltip" id="93635"/>
 					</Button>
+					<Button name="ФормаЗаполнитьВнешнимиДанными" id="93636">
+						<Type>CommandBarButton</Type>
+						<Representation>PictureAndText</Representation>
+						<CommandName>Form.Command.ЗаполнитьВнешнимиДанными</CommandName>
+						<Picture>
+							<xr:Ref>CommonPicture.НастроитьИнтеграциюАвтоматически</xr:Ref>
+							<xr:LoadTransparent>true</xr:LoadTransparent>
+						</Picture>
+						<ExtendedTooltip name="ФормаЗаполнитьВнешнимиДаннымиРасширеннаяПодсказка" id="93637"/>
+					</Button>
 				</ChildItems>
 			</ButtonGroup>
 			<Button name="Обновить" id="93589">
@@ -1721,6 +1731,21 @@
 			<Action>СравнитьОтчеты</Action>
 			<Representation>TextPicture</Representation>
 			<CurrentRowUse>DontUse</CurrentRowUse>
+		</Command>
+		<Command name="ЗаполнитьВнешнимиДанными" id="14">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить внешними данными</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заполнить внешними данными</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ЗаполнитьВнешнимиДанными</Action>
 		</Command>
 	</Commands>
 	<Parameters>
