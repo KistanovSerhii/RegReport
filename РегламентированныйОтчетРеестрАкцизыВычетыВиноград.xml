@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
-	<ExternalReport uuid="3bfa5778-d74e-408d-b3b0-e3fb0a5b1cf3">
+	<ExternalReport uuid="998c76bc-265c-41ba-862b-0a14ccc5ac05">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>e41aff26-25cf-4bb6-b6c1-3f478a75f374</xr:ClassId>
-				<xr:ObjectId>107452ad-328b-4006-a653-7175bb2dd7d4</xr:ObjectId>
+				<xr:ObjectId>1d7bb3f0-4503-4f7e-a74b-5b5a366574d1</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:GeneratedType name="ExternalReportObject.РегламентированныйОтчетРеестрАкцизыВычетыВиноград" category="Object">
-				<xr:TypeId>c9187787-09b8-4eeb-ba3a-b5456fda9de7</xr:TypeId>
-				<xr:ValueId>089eacc2-b938-4e2a-825b-ff3b03a43ce8</xr:ValueId>
+				<xr:TypeId>56b07cc6-7868-4f2c-ba6e-dde84b39bdc2</xr:TypeId>
+				<xr:ValueId>ab57fb37-c2d5-451a-8bd6-c2b332358a46</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

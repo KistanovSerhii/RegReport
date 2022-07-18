@@ -189,7 +189,7 @@
 						<ToolTipRepresentation>None</ToolTipRepresentation>
 						<ExtendedTooltip name="СравнитьExtendedTooltip" id="93635"/>
 					</Button>
-					<Button name="ФормаЗаполнитьВнешнимиДанными" id="93636">
+					<Button name="ФормаЗаполнитьВнешнимиДанными" id="93639">
 						<Type>CommandBarButton</Type>
 						<Representation>PictureAndText</Representation>
 						<CommandName>Form.Command.ЗаполнитьВнешнимиДанными</CommandName>
@@ -197,7 +197,7 @@
 							<xr:Ref>CommonPicture.НастроитьИнтеграциюАвтоматически</xr:Ref>
 							<xr:LoadTransparent>true</xr:LoadTransparent>
 						</Picture>
-						<ExtendedTooltip name="ФормаЗаполнитьВнешнимиДаннымиРасширеннаяПодсказка" id="93637"/>
+						<ExtendedTooltip name="ФормаЗаполнитьВнешнимиДаннымиРасширеннаяПодсказка" id="93640"/>
 					</Button>
 				</ChildItems>
 			</ButtonGroup>
@@ -226,13 +226,13 @@
 		<Event name="OnClose">ПриЗакрытии</Event>
 	</Events>
 	<ChildItems>
-		<SpreadSheetDocumentField name="ИТ_ТД" id="93638">
+		<SpreadSheetDocumentField name="ИТ_ТД" id="93636">
 			<DataPath>ИТ_ТД</DataPath>
 			<Visible>false</Visible>
 			<ShowGrid>true</ShowGrid>
 			<Edit>true</Edit>
-			<ContextMenu name="ИТ_ТДКонтекстноеМеню" id="93639"/>
-			<ExtendedTooltip name="ИТ_ТДРасширеннаяПодсказка" id="93640"/>
+			<ContextMenu name="ИТ_ТДКонтекстноеМеню" id="93637"/>
+			<ExtendedTooltip name="ИТ_ТДРасширеннаяПодсказка" id="93638"/>
 		</SpreadSheetDocumentField>
 		<UsualGroup name="ГруппаПанельОтправки" id="12112">
 			<EnableContentChange>true</EnableContentChange>
